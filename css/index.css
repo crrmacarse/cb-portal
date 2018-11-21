@@ -1,0 +1,296 @@
+/* CSS Document */
+
+body, html{
+	background-color:#FFF;
+	margin:0;
+	font-family:Verdana, Geneva, sans-serif;
+    height: 100%;
+}
+.bg{
+	background:url(../img/intro-bg.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/*
+#secsignin{
+	width:100%;
+	background-color:#333;
+	position:absolute;
+	top:0;
+}
+
+#divsignin{
+	width:790px;
+	padding:5px;
+	margin:auto;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#FFF;
+}
+
+.button{
+	background-color:#444;
+	color:#FFF;
+	border:thick;
+	cursor:pointer;
+	width:300px;
+	height:40px;
+	margin:5px;
+
+	text-decoration: none;
+	cursor: pointer;
+	transition: all 0.3s ease-out;
+}
+.button:hover{
+		background: #6c842e;
+}
+
+.buttonportal{
+	background-color:#600;
+	color:#FFF;
+	border:thick;
+	cursor:pointer;
+	width:300px;
+	height:40px;
+	margin:5px;
+
+	text-decoration: none;
+	cursor: pointer;
+	transition: all 0.3s ease-out;
+}
+.buttonportal:hover{
+		background: #F00;
+}
+
+
+.formcontainer{
+	background:#333;
+	color: white;
+	border-radius: 1em;
+	padding: 1em;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-right: -50%;
+	transform: translate(-50%, -50%);
+}
+
+.formcontainerportal{
+	background:#900;
+	color: white;
+	border-radius: 1em;
+	padding: 1em;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-right: -50%;
+	transform: translate(-50%, -50%);
+}
+
+.input{
+	outline:0;
+	border:none;
+	-webkit-appearance:none;
+	width:300px;
+	height:25px;
+	margin:5px;
+}
+
+.inputprof{
+	position: relative;
+	display: inline-grid;
+	float: left;
+	outline:0;
+	border:none;
+	-webkit-appearance:none;
+	width:300px;
+	height:25px;
+	margin:5px;
+	background: #333;
+	color: white;
+	border-bottom: solid thin white;
+}
+
+.inputname{
+	font-size: 18px;
+	font-weight: bold;
+	border-bottom: none;
+	transition: linear .5s;
+}
+
+.inputname:before{
+	content: "";
+	width:100%;
+	height:100%;
+	position:absolute;
+	display: block;
+	background: #81C50C;
+	top:0;
+	left:0;
+	z-index: 20;
+	border-bottom: solid thin white;
+}
+
+.inputname:hover{
+	border-bottom: solid thin white;
+}
+
+a{
+	text-decoration:none;
+	color:#FFF;
+	font-weight:bold;
+}
+a:hover{
+	color:#6c842e;
+}
+
+
+.overlay {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.7);
+  transition: opacity 500ms;
+  visibility: hidden;
+  opacity: 0;
+	  z-index: 10;
+}
+.overlay:target {
+  visibility: visible;
+  opacity: 1;
+}
+
+.popup {
+  margin: 70px auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 5px;
+  height: 80%;
+	max-height: 700px;
+  width: 30%;
+  position: relative;
+  transition: all .5s ease-in-out;
+  color:#333333;
+}
+
+.popup h2 {
+  margin-top: 0;
+  color: #333;
+  font-family: Tahoma, Arial, sans-serif;
+}
+.popup p{
+	font-size:12px;
+	text-indent: 50px;
+}
+.popup .close {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  transition: all 200ms;
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #333;
+}
+.popup .close:hover {
+  color: #06D85F;
+}
+.popup .content {
+  max-height: 30%;
+  overflow: auto;
+}
+*/
+
+
+@media screen and (max-width: 700px){
+  .box{
+    width: 70%;
+  }
+  .popup{
+    width: 70%;
+  }
+}
+
+
+.messagebox {
+  margin: 70px auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 5px;
+  width: 30%;
+  position: relative;
+  transition: all .5s ease-in-out;
+}
+
+.messagebox h2 {
+  margin-top: 0;
+  color: #333;
+  font-family: Tahoma, Arial, sans-serif;
+}
+.messagebox .close {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  transition: all 200ms;
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #333;
+}
+.messagebox .close:hover {
+  color: #06D85F;
+}
+.messagebox .content {
+  max-height: 30%;
+  overflow:hidden;
+}
+
+
+#termscontent{
+	height:90%;
+	max-height:90%;
+	overflow-y: scroll;
+}
+
+.popup > #termscontent{
+	height: 80%;
+}
+
+#policycontent:parent{
+	height: 80%;
+}
+
+#cookiecontent:parent{
+	height: 80%;
+}
+
+#policycontent{
+	height:90%;
+	max-height:90%;
+	overflow-y: scroll;
+}
+
+#cookiecontent{
+	height:90%;
+	max-height:90%;
+	overflow-y: scroll;
+}
+
+#termsconwifi span{
+	margin-left: 20px;
+}
+
+/**--- PROFILE---**/
+#profpic::before{
+	width:100px;
+	height:10px;
+	position: absolute;
+	display: block;
+	top:0;
+	left:0;
+	background-image: url(../img/editpropic.jpg);
+}

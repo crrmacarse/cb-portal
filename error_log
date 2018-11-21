@@ -1,0 +1,120 @@
+[03-Oct-2017 23:40:44 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/jqgfc/public_html/portal/registration.php on line 28
+[03-Oct-2017 23:40:44 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/portal/registration.php on line 29
+[03-Oct-2017 23:40:44 America/Chicago] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/jqgfc/public_html/portal/registration.php on line 30
+[03-Oct-2017 23:49:06 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/jqgfc/public_html/portal/registration.php on line 28
+[03-Oct-2017 23:49:06 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/portal/registration.php on line 29
+[03-Oct-2017 23:49:06 America/Chicago] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/jqgfc/public_html/portal/registration.php on line 30
+[03-Oct-2017 23:51:08 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/jqgfc/public_html/portal/registration.php on line 28
+[03-Oct-2017 23:51:08 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/portal/registration.php on line 29
+[03-Oct-2017 23:51:08 America/Chicago] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/jqgfc/public_html/portal/registration.php on line 30
+[03-Oct-2017 23:54:31 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_member'@'192.185.35.28' (using password: YES) in /home1/jqgfc/public_html/portal/registration.php on line 55
+[03-Oct-2017 23:54:31 America/Chicago] PHP Warning:  mysqli::stmt_init(): Couldn't fetch mysqli in /home1/jqgfc/public_html/portal/registration.php on line 56
+[03-Oct-2017 23:54:31 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/jqgfc/public_html/portal/registration.php on line 28
+[03-Oct-2017 23:54:31 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/portal/registration.php on line 29
+[03-Oct-2017 23:54:31 America/Chicago] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/jqgfc/public_html/portal/registration.php on line 30
+[03-Oct-2017 23:54:39 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_member'@'192.185.35.28' (using password: YES) in /home1/jqgfc/public_html/portal/registration.php on line 55
+[03-Oct-2017 23:54:39 America/Chicago] PHP Warning:  mysqli::stmt_init(): Couldn't fetch mysqli in /home1/jqgfc/public_html/portal/registration.php on line 56
+[03-Oct-2017 23:54:39 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/jqgfc/public_html/portal/registration.php on line 28
+[03-Oct-2017 23:54:39 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/portal/registration.php on line 29
+[03-Oct-2017 23:54:39 America/Chicago] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/jqgfc/public_html/portal/registration.php on line 30
+[03-Oct-2017 23:56:13 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_member'@'192.185.35.28' (using password: YES) in /home1/jqgfc/public_html/portal/registration.php on line 55
+[03-Oct-2017 23:56:13 America/Chicago] PHP Warning:  mysqli::stmt_init(): Couldn't fetch mysqli in /home1/jqgfc/public_html/portal/registration.php on line 56
+[03-Oct-2017 23:56:13 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/jqgfc/public_html/portal/registration.php on line 28
+[03-Oct-2017 23:56:13 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/portal/registration.php on line 29
+[03-Oct-2017 23:56:13 America/Chicago] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/jqgfc/public_html/portal/registration.php on line 30
+[03-Oct-2017 23:57:50 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_member'@'192.185.35.28' (using password: YES) in /home1/jqgfc/public_html/portal/registration.php on line 55
+[03-Oct-2017 23:57:50 America/Chicago] PHP Warning:  mysqli::stmt_init(): Couldn't fetch mysqli in /home1/jqgfc/public_html/portal/registration.php on line 56
+[03-Oct-2017 23:57:50 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host ':' (0) in /home1/jqgfc/public_html/portal/registration.php on line 28
+[03-Oct-2017 23:57:50 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/portal/registration.php on line 29
+[03-Oct-2017 23:57:50 America/Chicago] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/jqgfc/public_html/portal/registration.php on line 30
+[04-Oct-2017 00:00:33 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_member'@'localhost' (using password: YES) in /home1/jqgfc/public_html/portal/registration.php on line 56
+[04-Oct-2017 00:05:23 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_member'@'localhost' (using password: YES) in /home1/jqgfc/public_html/portal/registration.php on line 56
+[04-Oct-2017 00:05:44 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_member'@'localhost' (using password: YES) in /home1/jqgfc/public_html/portal/registration.php on line 56
+[04-Oct-2017 00:06:12 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_member'@'localhost' (using password: YES) in /home1/jqgfc/public_html/portal/registration.php on line 56
+[04-Oct-2017 00:06:22 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'jqgfc_member'@'localhost' (using password: YES) in /home1/jqgfc/public_html/portal/registration.php on line 56
+[04-Oct-2017 00:10:51 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/jqgfc/public_html/portal/registration.php on line 26
+[04-Oct-2017 00:10:51 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/portal/registration.php on line 27
+[04-Oct-2017 00:10:51 America/Chicago] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/jqgfc/public_html/portal/registration.php on line 28
+[04-Oct-2017 00:11:06 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/jqgfc/public_html/portal/registration.php on line 26
+[04-Oct-2017 00:11:06 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/portal/registration.php on line 27
+[04-Oct-2017 00:11:06 America/Chicago] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/jqgfc/public_html/portal/registration.php on line 28
+[04-Oct-2017 00:11:55 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/jqgfc/public_html/portal/registration.php on line 26
+[04-Oct-2017 00:11:55 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/portal/registration.php on line 27
+[04-Oct-2017 00:11:55 America/Chicago] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/jqgfc/public_html/portal/registration.php on line 28
+[04-Oct-2017 00:12:28 America/Chicago] PHP Fatal error:  Call to undefined function ExecuteNonQuery() in /home1/jqgfc/public_html/portal/registration.php on line 68
+[04-Oct-2017 00:13:31 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/jqgfc/public_html/portal/registration.php on line 26
+[04-Oct-2017 00:13:31 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/portal/registration.php on line 27
+[04-Oct-2017 00:13:31 America/Chicago] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/jqgfc/public_html/portal/registration.php on line 28
+[04-Oct-2017 00:22:23 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/jqgfc/public_html/portal/registration.php on line 28
+[04-Oct-2017 00:22:23 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/jqgfc/public_html/portal/registration.php on line 29
+[04-Oct-2017 00:22:23 America/Chicago] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/jqgfc/public_html/portal/registration.php on line 30
+[06-Oct-2017 00:26:30 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/jqgfc/public_html/portal/portal.php on line 8
+[06-Oct-2017 00:26:30 America/Chicago] PHP Warning:  mysqli::stmt_init(): Couldn't fetch mysqli in /home1/jqgfc/public_html/portal/portal.php on line 9
+[06-Oct-2017 00:26:30 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home1/jqgfc/public_html/portal/portal.php on line 10
+[11-Oct-2017 12:38:14 Asia/Manila] PHP Fatal error:  Call to undefined function SendEmailVerification() in /home1/jqgfc/public_html/portal/portal.php on line 43
+[11-Oct-2017 12:51:00 Asia/Manila] PHP Fatal error:  Call to undefined function SendEmailVerification() in /home1/jqgfc/public_html/portal/portal.php on line 43
+[12-Oct-2017 14:23:20 Asia/Manila] PHP Warning:  require_once(/home1/jqgfc/public_html/portal/php-graph-sdk-5.x/src/Facebook/polyfills.php): failed to open stream: No such file or directory in /home1/jqgfc/public_html/portal/php-graph-sdk-5.x/src/Facebook/autoload.php on line 35
+[12-Oct-2017 14:23:20 Asia/Manila] PHP Fatal error:  require_once(): Failed opening required '/home1/jqgfc/public_html/portal/php-graph-sdk-5.x/src/Facebook/polyfills.php' (include_path='.:/opt/php54/lib/php') in /home1/jqgfc/public_html/portal/php-graph-sdk-5.x/src/Facebook/autoload.php on line 35
+[12-Oct-2017 14:24:56 Asia/Manila] PHP Warning:  require_once(/home1/jqgfc/public_html/portal/php-graph-sdk-5.x/src/Facebook/polyfills.php): failed to open stream: No such file or directory in /home1/jqgfc/public_html/portal/php-graph-sdk-5.x/src/Facebook/autoload.php on line 35
+[12-Oct-2017 14:24:56 Asia/Manila] PHP Fatal error:  require_once(): Failed opening required '/home1/jqgfc/public_html/portal/php-graph-sdk-5.x/src/Facebook/polyfills.php' (include_path='.:/opt/php54/lib/php') in /home1/jqgfc/public_html/portal/php-graph-sdk-5.x/src/Facebook/autoload.php on line 35
+[12-Oct-2017 14:25:14 Asia/Manila] PHP Warning:  require_once(/home1/jqgfc/public_html/portal/php-graph-sdk-5.x/src/Facebook/polyfills.php): failed to open stream: No such file or directory in /home1/jqgfc/public_html/portal/php-graph-sdk-5.x/src/Facebook/autoload.php on line 35
+[12-Oct-2017 14:25:14 Asia/Manila] PHP Fatal error:  require_once(): Failed opening required '/home1/jqgfc/public_html/portal/php-graph-sdk-5.x/src/Facebook/polyfills.php' (include_path='.:/opt/php54/lib/php') in /home1/jqgfc/public_html/portal/php-graph-sdk-5.x/src/Facebook/autoload.php on line 35
+[12-Oct-2017 14:28:05 Asia/Manila] PHP Warning:  require_once(/home1/jqgfc/public_html/portal/php-graph-sdk-5.x/src/Facebook/polyfills.php): failed to open stream: No such file or directory in /home1/jqgfc/public_html/portal/php-graph-sdk-5.x/src/Facebook/autoload.php on line 35
+[12-Oct-2017 14:28:05 Asia/Manila] PHP Fatal error:  require_once(): Failed opening required '/home1/jqgfc/public_html/portal/php-graph-sdk-5.x/src/Facebook/polyfills.php' (include_path='.:/opt/php54/lib/php') in /home1/jqgfc/public_html/portal/php-graph-sdk-5.x/src/Facebook/autoload.php on line 35
+[12-Oct-2017 14:28:38 Asia/Manila] PHP Fatal error:  Class 'FacebookRequest' not found in /home1/jqgfc/public_html/portal/profile.php on line 8
+[12-Oct-2017 14:29:54 Asia/Manila] PHP Catchable fatal error:  Argument 1 passed to Facebook\Facebook::__construct() must be of the type array, null given, called in /home1/jqgfc/public_html/portal/profile.php on line 12 and defined in /home1/jqgfc/public_html/portal/php-graph-sdk-5.x/src/Facebook/Facebook.php on line 125
+[12-Oct-2017 14:37:23 Asia/Manila] PHP Fatal error:  Class 'FacebookRequest' not found in /home1/jqgfc/public_html/portal/profile.php on line 8
+[12-Oct-2017 14:40:15 Asia/Manila] PHP Fatal error:  Class 'FacebookRequest' not found in /home1/jqgfc/public_html/portal/profile.php on line 8
+[12-Oct-2017 14:40:50 Asia/Manila] PHP Fatal error:  Class 'FacebookRequest' not found in /home1/jqgfc/public_html/portal/profile.php on line 8
+[12-Oct-2017 14:40:56 Asia/Manila] PHP Fatal error:  Class 'FacebookRequest' not found in /home1/jqgfc/public_html/portal/profile.php on line 8
+[12-Oct-2017 14:42:48 Asia/Manila] PHP Fatal error:  Class 'FacebookRequest' not found in /home1/jqgfc/public_html/portal/profile.php on line 9
+[12-Oct-2017 14:43:08 Asia/Manila] PHP Fatal error:  Class 'FacebookRequest' not found in /home1/jqgfc/public_html/portal/profile.php on line 9
+[12-Oct-2017 14:43:11 Asia/Manila] PHP Fatal error:  Class 'FacebookRequest' not found in /home1/jqgfc/public_html/portal/profile.php on line 9
+[12-Oct-2017 14:43:13 Asia/Manila] PHP Fatal error:  Class 'FacebookRequest' not found in /home1/jqgfc/public_html/portal/profile.php on line 9
+[12-Oct-2017 14:45:51 Asia/Manila] PHP Warning:  include(include/FacebookRequest.php): failed to open stream: No such file or directory in /home1/jqgfc/public_html/portal/profile.php on line 8
+[12-Oct-2017 14:45:51 Asia/Manila] PHP Warning:  include(include/FacebookRequest.php): failed to open stream: No such file or directory in /home1/jqgfc/public_html/portal/profile.php on line 8
+[12-Oct-2017 14:45:51 Asia/Manila] PHP Warning:  include(): Failed opening 'include/FacebookRequest.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home1/jqgfc/public_html/portal/profile.php on line 8
+[12-Oct-2017 14:45:51 Asia/Manila] PHP Fatal error:  Class 'FacebookRequest' not found in /home1/jqgfc/public_html/portal/profile.php on line 9
+[12-Oct-2017 14:47:49 Asia/Manila] PHP Warning:  require_once(include/FacebookRequest.php): failed to open stream: No such file or directory in /home1/jqgfc/public_html/portal/profile.php on line 8
+[12-Oct-2017 14:47:49 Asia/Manila] PHP Fatal error:  require_once(): Failed opening required 'include/FacebookRequest.php' (include_path='.:/opt/php54/lib/php') in /home1/jqgfc/public_html/portal/profile.php on line 8
+[12-Oct-2017 14:49:46 Asia/Manila] PHP Fatal error:  Class 'FacebookRequest' not found in /home1/jqgfc/public_html/portal/profile.php on line 9
+[12-Oct-2017 14:53:44 Asia/Manila] PHP Fatal error:  Class 'Facebook\Facebook' not found in /home1/jqgfc/public_html/portal/profile.php on line 9
+[12-Oct-2017 14:56:45 Asia/Manila] PHP Fatal error:  Class 'Facebook\Url\FacebookUrlManipulator' not found in /home1/jqgfc/public_html/portal/include/FacebookRequest.php on line 261
+[12-Oct-2017 14:57:14 Asia/Manila] PHP Fatal error:  Class 'Facebook\Url\FacebookUrlManipulator' not found in /home1/jqgfc/public_html/portal/php-graph-sdk-5.x/src/Facebook/FacebookRequest.php on line 261
+[12-Oct-2017 14:57:20 Asia/Manila] PHP Fatal error:  Class 'Facebook\Url\FacebookUrlManipulator' not found in /home1/jqgfc/public_html/portal/php-graph-sdk-5.x/src/Facebook/FacebookRequest.php on line 261
+[12-Oct-2017 14:57:24 Asia/Manila] PHP Fatal error:  Class 'Facebook\Url\FacebookUrlManipulator' not found in /home1/jqgfc/public_html/portal/php-graph-sdk-5.x/src/Facebook/FacebookRequest.php on line 261
+[12-Oct-2017 15:01:43 Asia/Manila] PHP Fatal error:  Class 'Facebook\Url\FacebookUrlManipulator' not found in /home1/jqgfc/public_html/portal/php-graph-sdk-5.x/src/Facebook/FacebookRequest.php on line 261
+[12-Oct-2017 15:05:32 Asia/Manila] PHP Fatal error:  Class 'Facebook\Url\FacebookUrlManipulator' not found in /home1/jqgfc/public_html/portal/php-graph-sdk-5.x/src/Facebook/FacebookRequest.php on line 261
+[12-Oct-2017 15:10:00 Asia/Manila] PHP Fatal error:  Class 'Facebook\Url\FacebookUrlManipulator' not found in /home1/jqgfc/public_html/portal/php-graph-sdk-5.x/src/Facebook/FacebookRequest.php on line 261
+[12-Oct-2017 15:10:44 Asia/Manila] PHP Fatal error:  Class 'Facebook\Url\FacebookUrlManipulator' not found in /home1/jqgfc/public_html/portal/php-graph-sdk-5.x/src/Facebook/FacebookRequest.php on line 261
+[12-Oct-2017 15:15:19 Asia/Manila] PHP Fatal error:  Class 'Facebook\Url\FacebookUrlManipulator' not found in /home1/jqgfc/public_html/portal/php-graph-sdk-5.x/src/Facebook/FacebookRequest.php on line 261
+[12-Oct-2017 15:17:30 Asia/Manila] PHP Fatal error:  Class 'Facebook\Url\FacebookUrlManipulator' not found in /home1/jqgfc/public_html/portal/php-graph-sdk-5.x/src/Facebook/FacebookRequest.php on line 261
+[12-Oct-2017 15:20:44 Asia/Manila] PHP Fatal error:  Class 'Facebook\Url\FacebookUrlManipulator' not found in /home1/jqgfc/public_html/portal/php-graph-sdk-5.x/src/Facebook/FacebookRequest.php on line 261
+[12-Oct-2017 15:22:02 Asia/Manila] PHP Fatal error:  Class 'Facebook\Url\FacebookUrlManipulator' not found in /home1/jqgfc/public_html/portal/php-graph-sdk-5.x/src/Facebook/FacebookRequest.php on line 261
+[12-Oct-2017 15:24:05 Asia/Manila] PHP Fatal error:  Class 'Facebook\Url\FacebookUrlManipulator' not found in /home1/jqgfc/public_html/portal/php-graph-sdk-5.x/src/Facebook/FacebookRequest.php on line 261
+[12-Oct-2017 15:24:09 Asia/Manila] PHP Fatal error:  Class 'Facebook\Url\FacebookUrlManipulator' not found in /home1/jqgfc/public_html/portal/php-graph-sdk-5.x/src/Facebook/FacebookRequest.php on line 261
+[12-Oct-2017 15:25:06 Asia/Manila] PHP Fatal error:  Call to undefined method Facebook\FacebookRequest::execute() in /home1/jqgfc/public_html/portal/profile.php on line 15
+[12-Oct-2017 15:25:09 Asia/Manila] PHP Fatal error:  Call to undefined method Facebook\FacebookRequest::execute() in /home1/jqgfc/public_html/portal/profile.php on line 15
+[12-Oct-2017 15:26:55 Asia/Manila] PHP Catchable fatal error:  Argument 1 passed to Facebook\Facebook::__construct() must be of the type array, null given, called in /home1/jqgfc/public_html/portal/profile.php on line 14 and defined in /home1/jqgfc/public_html/portal/php-graph-sdk-5.x/src/Facebook/Facebook.php on line 125
+[12-Oct-2017 16:14:04 Asia/Manila] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Required "app_secret" key not supplied in config and could not find fallback environment variable "FACEBOOK_APP_SECRET"' in /home1/jqgfc/public_html/portal/php-graph-sdk-5.x/src/Facebook/Facebook.php:142
+Stack trace:
+#0 /home1/jqgfc/public_html/portal/profile.php(12): Facebook\Facebook->__construct(Array)
+#1 {main}
+  thrown in /home1/jqgfc/public_html/portal/php-graph-sdk-5.x/src/Facebook/Facebook.php on line 142
+[12-Oct-2017 03:33:11 America/Chicago] PHP Parse error:  syntax error, unexpected ''/me?fields=' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home1/jqgfc/public_html/portal/profile.php on line 45
+[12-Oct-2017 16:39:24 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/jqgfc/public_html/portal/profile.php:102) in /home1/jqgfc/public_html/portal/profile.php on line 125
+[13-Oct-2017 10:30:11 Asia/Manila] PHP Fatal error:  Cannot pass parameter 1 by reference in /home1/jqgfc/public_html/portal/profile.php on line 429
+[13-Oct-2017 10:30:14 Asia/Manila] PHP Fatal error:  Cannot pass parameter 1 by reference in /home1/jqgfc/public_html/portal/profile.php on line 429
+[13-Oct-2017 10:30:28 Asia/Manila] PHP Fatal error:  Cannot pass parameter 1 by reference in /home1/jqgfc/public_html/portal/profile.php on line 429
+[13-Oct-2017 16:14:16 Asia/Manila] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home1/jqgfc/public_html/portal/save.php on line 46
+[13-Oct-2017 16:14:16 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/jqgfc/public_html/portal/save.php:46) in /home1/jqgfc/public_html/portal/save.php on line 50
+[16-Oct-2017 11:26:47 Asia/Manila] PHP Warning:  Illegal string offset 'size' in /home1/jqgfc/public_html/portal/save.php on line 11
+[16-Oct-2017 11:27:06 Asia/Manila] PHP Warning:  Illegal string offset 'name' in /home1/jqgfc/public_html/portal/save.php on line 11
+[15-Oct-2017 22:43:31 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home1/jqgfc/public_html/portal/save.php on line 11
+[16-Oct-2017 11:44:11 Asia/Manila] PHP Warning:  getimagesize(14445052_1341012032583681_1217622402806871122_o.jpg): failed to open stream: No such file or directory in /home1/jqgfc/public_html/portal/save.php on line 11
+[16-Oct-2017 13:50:37 Asia/Manila] PHP Fatal error:  Call to undefined function getextension() in /home1/jqgfc/public_html/portal/save.php on line 12
+[16-Oct-2017 13:58:57 Asia/Manila] PHP Warning:  getimagesize(468591_377310095620551_493743630_o.jpg): failed to open stream: No such file or directory in /home1/jqgfc/public_html/portal/save.php on line 20
+[16-Oct-2017 14:01:51 Asia/Manila] PHP Warning:  getimagesize(468591_377310095620551_493743630_o.jpg): failed to open stream: No such file or directory in /home1/jqgfc/public_html/portal/save.php on line 20
+[17-Oct-2017 09:40:04 Asia/Manila] PHP Fatal error:  Call to undefined function SendEmailResetPassword() in /home1/jqgfc/public_html/portal/reset.php on line 56
+[17-Oct-2017 10:29:53 Asia/Manila] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home1/jqgfc/public_html/portal/login.php on line 18
+[18-Oct-2017 10:55:20 Asia/Manila] PHP Fatal error:  Call to a member function getAccessToken() on a non-object in /home1/jqgfc/public_html/portal/profile.php on line 16

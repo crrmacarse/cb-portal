@@ -1,0 +1,39 @@
+/*  Bootsrap 4 Overrides*/
+
+.bg-light
+{
+  background-color: #333 !important;
+}
+
+.btn-primary {
+    background-color: #ffb24a !important;
+    border-color: #ffb24a !important;
+  }
+
+/* Personalized */
+@font-face {
+    font-family: HelveticaBlkFile;
+    src: url(../library/ttf/HELVETICALTSTD-BLK_2F.otf);
+}
+
+
+body, html{
+	margin:0;
+  	height: 100%;
+}
+
+.bg-intro
+{
+ display: table;
+ width: 100%;
+ height: 100%;
+ padding: 165px 0;
+ text-align: center;
+ color: white;
+ background: url("../img/intro-bg.jpg") no-repeat bottom center scroll;
+ background-color: black;
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+}
